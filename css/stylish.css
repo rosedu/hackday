@@ -1,5 +1,9 @@
 body {
-    font-family: Helvetica, Verdana, Arial, sans-serif;
+    font-family: 'Garamond', 'Georgia', serif;
     font-size: 18px;
-    background: #E1E1E1;
+}
+
+body.mentors-page {
+    background: url(img/friar.jpeg) no-repeat scroll top right;
+    margin: 50px 350px 50px 50px;
 }
