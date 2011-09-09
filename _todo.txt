@@ -1,4 +1,5 @@
 * desfășurarea evenimentului:
+  - http://www.fromoldbooks.org/Blades-Pentateuch/pages/discourse-into-the-night/
   - schiță de program
     - în poli, sâmbăta, toată ziua
     - first off, scurtă prezentare de la fiecare mentor
