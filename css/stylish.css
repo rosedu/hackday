@@ -28,16 +28,9 @@ a, a:visited {
 img.deco {
     display: block;
     margin: 25px;
-}
-
-.home-page img.deco {
     float: right;
 }
 
 .home-page h2 {
     clear: right;
-}
-
-.mentors-page img.deco {
-    float: right;
 }
