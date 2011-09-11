@@ -1,28 +1,5 @@
 * desfășurarea evenimentului:
   - http://www.fromoldbooks.org/Blades-Pentateuch/pages/discourse-into-the-night/
-  - schiță de program
-    - în poli, sâmbăta, toată ziua
-    - first off, scurtă prezentare de la fiecare mentor
-    - join a project, sau do whatever you like
-    - code code code
-    - comandăm pizza
-    - code code code
-    - ieșim la o bere
-
-  - who should come
-    - studenți care vor să vadă cum e să lucrezi la un proiect mai mare decât
-      o temă de școală
-    - programatori care vor să descopere tehnologii noi
-    - maintaineri de proiecte open-source care vor să-și promoveze proiectul
-
-  - tot codul scris este open source
-
-
-* ghid pentru mentori
-  - descrie proiectul
-  - listă de taskuri
-  - be prepared to help, explain
-
 
 * uite ce mișto au fost ediții precedente
   - poze
