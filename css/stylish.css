@@ -31,6 +31,20 @@ img.deco {
     float: right;
 }
 
+div.footer {
+    margin-top: 100px;
+    padding: 20px 5px;
+    color: #444;
+}
+
+div.footer div.copyright {
+    float: right;
+}
+
+div.footer a.rosedu-logo {
+    display: inline-block;
+}
+
 .home-page h2 {
     clear: right;
 }
