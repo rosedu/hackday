@@ -63,4 +63,8 @@ div.footer a.rosedu-logo {
         margin: 25px;
         float: right;
     }
+
+    .mentors-page img.deco {
+        margin-top: -25px;
+    }
 }
