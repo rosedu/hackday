@@ -9,6 +9,10 @@
 <body class="{{ page.body-class }}">
 <div class="content">
 
+{% if page.deco-image %}
+<img src="css/img/{{ page.deco-image }}" class="deco">
+{% endif %}
+
 {{ content }}
 
 
