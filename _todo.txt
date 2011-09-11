@@ -1,9 +1,5 @@
 * sigla rosedu
 * pagină cu programul
-* pagină "meta"
-  - made with jekyll
-  - link to source
-  - hosted by rosedu
 
 * uite ce mișto au fost ediții precedente
   - poze
