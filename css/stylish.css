@@ -13,38 +13,54 @@ div.menu {
     text-align: center;
 }
 
-div.menu a {
-    margin: 0 5px;
-}
-
-h1 {
-    padding: 100px 0 50px;
-}
-
 a, a:visited {
     color: #278;
 }
 
-img.deco {
-    display: block;
-    margin: 25px;
-    float: right;
-}
-
 div.footer {
-    margin-top: 100px;
     padding: 20px 5px;
     color: #444;
 }
 
 div.footer div.copyright {
-    float: right;
+    float: left;
 }
 
 div.footer a.rosedu-logo {
     display: inline-block;
+    margin-top: 50px;
 }
 
 .home-page h2 {
     clear: right;
+}
+
+@media screen and (max-device-width: 500px) {
+    h1 {
+        font-size: 32px;
+    }
+
+    img.deco {
+        display: none;
+    }
+}
+
+@media screen and (min-device-width: 500px) {
+    h1 {
+        font-size: 42px;
+        padding: 100px 0 50px;
+    }
+    h1, h2 {
+        color: #444;
+    }
+
+    div.menu a {
+        margin: 0 5px;
+    }
+
+    img.deco {
+        display: block;
+        margin: 25px;
+        float: right;
+    }
 }
