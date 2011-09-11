@@ -12,6 +12,10 @@ h1 {
     padding: 100px 0;
 }
 
+a, a:visited {
+    color: #278;
+}
+
 img.deco {
     display: block;
     margin: 25px;
