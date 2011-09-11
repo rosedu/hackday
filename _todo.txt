@@ -1,5 +1,9 @@
-* desfășurarea evenimentului:
-  - http://www.fromoldbooks.org/Blades-Pentateuch/pages/discourse-into-the-night/
+* sigla rosedu
+* pagină cu programul
+* pagină "meta"
+  - made with jekyll
+  - link to source
+  - hosted by rosedu
 
 * uite ce mișto au fost ediții precedente
   - poze
