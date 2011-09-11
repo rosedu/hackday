@@ -2,7 +2,8 @@
 <html>
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-   <title>{{ page.title }}</title>
+   <title>{% unless page.is-home %}ROSEdu Hack Days &mdash;
+        {% endunless %}{{ page.title }}</title>
    <link rel="stylesheet" href="{{ site.url }}/css/stylish.css">
 </head>
 
@@ -12,6 +13,8 @@
 {% if page.deco-image %}
 <img src="css/img/{{ page.deco-image }}" class="deco">
 {% endif %}
+
+<h1>{{ page.title }}</h1>
 
 {{ content }}
 
