@@ -3,7 +3,28 @@ body {
     font-size: 18px;
 }
 
-body.mentors-page {
-    background: url(img/friar.jpeg) no-repeat scroll top right;
-    margin: 50px 350px 50px 50px;
+div.content {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+h1 {
+    padding: 100px 0;
+}
+
+img.deco {
+    display: block;
+    margin: 25px;
+}
+
+div.home-page img.deco {
+    float: right;
+}
+
+div.home-page h2 {
+    clear: right;
+}
+
+div.mentors-page img.deco {
+    float: right;
 }
