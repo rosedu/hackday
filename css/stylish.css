@@ -21,14 +21,14 @@ img.deco {
     margin: 25px;
 }
 
-div.home-page img.deco {
+.home-page img.deco {
     float: right;
 }
 
-div.home-page h2 {
+.home-page h2 {
     clear: right;
 }
 
-div.mentors-page img.deco {
+.mentors-page img.deco {
     float: right;
 }
