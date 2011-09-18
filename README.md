@@ -3,7 +3,7 @@ generator.
 
 Building the static pages:
 
-    jekyll --url .
+    jekyll
 
 Deploying:
 
