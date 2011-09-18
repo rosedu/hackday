@@ -13,7 +13,19 @@ WoUSO, dar cu mai multe proiecte, să avem de unde alege.
 
 ### Proiecte
 
-* DEXOnline
+* **[DEX online][]** este transpunerea pe internet a unor
+  dicționare de prestigiu ale limbii române. El este creat și întreținut
+  de un colectiv de voluntari.  Definițiile sunt preluate textual din
+  sursele menționate. O parte din baza de definiții a DEX online este
+  disponibilă gratuit sub licența publică generală GNU (GPL).
+
+  Puteți vedea [instrucțiunile de instalare][dexonline-install] și o
+  listă cu [tichete recente][dexonline-tickets].
+
+[dex online]: http://dexonline.ro/
+[dexonline-install]: http://wiki.dexonline.ro/wiki/AccesLaCodulSurs%C4%83
+[dexonline-tickets]: http://wiki.dexonline.ro/report/1?asc=0&sort=ticket
+
 
 * **[WoUSO][]** (World of USO) este un joc online text, conceput ca
   instrument adițional de curs (USO înseamnă Utilizarea Sistemelor de
