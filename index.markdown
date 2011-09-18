@@ -1,5 +1,5 @@
 ---
-title: ROSEdu Hack Days
+title: ROSEdu Hack Day
 layout: default
 is-home: true
 body-class: home-page
