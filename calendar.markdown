@@ -49,4 +49,17 @@ WoUSO, dar cu mai multe proiecte, să avem de unde alege.
 [wouso-git]: http://git.rosedu.org/gitweb/?p=wouso-django.git;a=summary
 [wouso-tickets]: https://projects.rosedu.org/projects/wousodjango/issues?query_id=12
 
-* OsmPoint
+
+* **[OsmPoint][]** este un site cu puncte de interes (cafenele,
+  restaurante, teatre, etc.) din București, din baza de date
+  OpenStreetMap. Se poate căuta o locație după nume, sau toate
+  locațiile de un anumit tip, și pot fi introduse locații noi foarte
+  ușor.
+
+  Codul sursă este [pe GitHub][osmpoint-git] unde se află și o [listă cu
+  tichete][osmpoint-tickets]. De asemenea, în altă zi, punem la cale un
+  mapping party în Regie, să marcăm pe hartă terasele de pe acolo.
+
+[osmpoint]: http://poi.grep.ro/
+[osmpoint-git]: https://github.com/pybucuresti/OsmPoint
+[osmpoint-tickets]: https://github.com/pybucuresti/OsmPoint/issues
