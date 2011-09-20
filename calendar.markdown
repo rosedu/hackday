@@ -8,8 +8,11 @@ deco-image: ptolemaic-system.jpeg
 24 septembrie 2011
 ------------------
 
-Primul hack day în formula asta. Ne inspirăm din succesul hack day-urilor
-WoUSO, dar cu mai multe proiecte, să avem de unde alege.
+Primul hack day în formula asta. Ne inspirăm din succesul hack
+day-urilor WoUSO, dar cu mai multe proiecte, să avem de unde alege.
+Înscrierile se fac [pe Eventbrite][].
+
+[pe eventbrite]: http://roseduhackday.eventbrite.com/
 
 ### Proiecte
 

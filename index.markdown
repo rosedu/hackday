@@ -34,9 +34,10 @@ Cui se adresează?
 Vreau și eu!
 ------------
 
-Pe pagina de [calendar][] găsești următoarea
-întâlnire.
+Pe pagina de [calendar][] găsești următoarea întâlnire iar înscrierile
+se fac [pe Eventbrite][].
 
 [automatica]: http://acs.pub.ro/
 [mentori]: mentori.html
 [calendar]: calendar.html
+[pe eventbrite]: http://roseduhackday.eventbrite.com/
