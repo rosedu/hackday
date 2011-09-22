@@ -5,7 +5,7 @@ body {
 
 div.content {
     margin: 0 auto;
-    max-width: 800px;
+    max-width: 650px;
 }
 
 div.menu {
@@ -54,6 +54,10 @@ div.footer a.rosedu-logo {
         color: #444;
     }
 
+    div.content p {
+        line-height: 26px;
+    }
+
     div.menu a {
         margin: 0 5px;
     }
@@ -66,5 +70,9 @@ div.footer a.rosedu-logo {
 
     .mentors-page img.deco {
         margin-top: -25px;
+    }
+
+    .calendar-page img.deco {
+        margin-top: -15px;
     }
 }
