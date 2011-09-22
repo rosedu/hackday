@@ -23,11 +23,11 @@ day-urilor WoUSO, dar cu mai multe proiecte, să avem de unde alege.
   disponibilă gratuit sub licența publică generală GNU (GPL).
 
   Puteți vedea [instrucțiunile de instalare][dexonline-install] și o
-  listă cu [tichete recente][dexonline-tickets].
+  listă cu [task-uri propuse pentru hack day][dexonline-tasks].
 
 [dex online]: http://dexonline.ro/
 [dexonline-install]: http://wiki.dexonline.ro/wiki/AccesLaCodulSurs%C4%83
-[dexonline-tickets]: http://wiki.dexonline.ro/report/1?asc=0&sort=ticket
+[dexonline-tasks]: http://wiki.dexonline.ro/wiki/ROSEdu
 
 
 * **[WoUSO][]** (World of USO) este un joc online text, conceput ca
