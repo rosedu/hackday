@@ -10,7 +10,8 @@ deco-image: ptolemaic-system.jpeg
 
 Primul hack day în formula asta. Ne inspirăm din succesul hack
 day-urilor WoUSO, dar cu mai multe proiecte, să avem de unde alege.
-Înscrierile se fac [pe Eventbrite][].
+
+Locația: EG106 în UPB. Înscrierile se fac [pe Eventbrite][].
 
 [pe eventbrite]: http://roseduhackday.eventbrite.com/
 
