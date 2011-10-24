@@ -35,6 +35,10 @@ div.footer a.rosedu-logo {
     clear: right;
 }
 
+.calendar-page div.page-content {
+    clear: right;
+}
+
 @media screen and (max-device-width: 500px) {
     h1 {
         font-size: 32px;
