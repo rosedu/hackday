@@ -5,12 +5,15 @@ body-class: calendar-page
 deco-image: ptolemaic-system.jpeg
 ---
 
-Următoarea ediție: 29 octombrie
--------------------------------
+29 octombrie
+------------
 
-A doua ediție de Hack Day va avea loc
-după [CDL](http://cdl.rosedu.org/2011-fall/), la ora 13:00, în EG106.
-Încă lucrăm la lista de proiecte.
+Primul Hack Day a avut atât de mult succes, încât mai organizăm unul! A
+doua ediție va avea loc după [CDL](http://cdl.rosedu.org/2011-fall/).
+Lista de proiecte este încă în lucru.
+
+Locația: EG106 în UPB la ora 13:00. Nu se fac înscrieri, vine cine
+vrea :)
 
 ## Proiecte
 
@@ -28,9 +31,14 @@ după [CDL](http://cdl.rosedu.org/2011-fall/), la ora 13:00, în EG106.
 [dexonline-tasks]: http://wiki.dexonline.ro/wiki/ROSEdu
 
 
-* **[Site ROSEdu summer of code](http://soc.rosedu.org/)** -
-  reorganizarea conținutului și îmbunătățit design grafic.
+* **Redesign al site-ului ROSEdu Summer of Code** --
+  Vrem să regândim [soc.rosedu.org] pentru a-l face mai **accesibil** și
+  **interactiv**. Plănuim să avem discuții de nivel înalt și eventual
+  niște mock-up-uri/cod.
 
+  Designerii în special sunt bine-veniți!
+
+[soc.rosedu.org]: http://soc.rosedu.org
 
 Ediții anterioare
 -----------------
