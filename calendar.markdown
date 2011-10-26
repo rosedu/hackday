@@ -8,13 +8,12 @@ deco-image: ptolemaic-system.jpeg
 29 octombrie
 ------------
 
-Primul Hack Day a avut atât de mult succes, încât mai organizăm unul! A doua ediție va avea loc
-după [CDL](http://cdl.rosedu.org/2011-fall/).
+Primul Hack Day a avut atât de mult succes, încât mai organizăm unul! A
+doua ediție va avea loc după [CDL](http://cdl.rosedu.org/2011-fall/).
+Lista de proiecte este încă în lucru.
 
-Locația: EG106 în UPB la ora 13:00. Înscrierile se fac [pe Eventbrite][].
-[pe eventbrite]: http://roseduhackday.eventbrite.com/
-
-Încă mai lucrăm la lista de proiecte... :)
+Locația: EG106 în UPB la ora 13:00. Nu se fac înscrieri, vine cine
+vrea :)
 
 ## Proiecte
 
@@ -33,8 +32,9 @@ Locația: EG106 în UPB la ora 13:00. Înscrierile se fac [pe Eventbrite][].
 
 
 * **Redesign al site-ului ROSEdu Summer of Code** --
-  Vrem să regândim [soc.rosedu.org] pentru a-l face mai **accesibil** și **interactiv**.
-  Plănuim să avem discuții de nivel înalt și eventual niște mock-up-uri/cod.
+  Vrem să regândim [soc.rosedu.org] pentru a-l face mai **accesibil** și
+  **interactiv**. Plănuim să avem discuții de nivel înalt și eventual
+  niște mock-up-uri/cod.
 
   Designerii în special sunt bine-veniți!
 
