@@ -9,14 +9,20 @@ deco-image: discourse-into-the-night.jpeg
 Ce se întâmplă?
 ---------------
 
-Ne întâlnim sâmbătă dimineață (vezi [calendarul][calendar]), la
-[Facultatea de Automatică și Calculatoare][automatica] în UPB, într-o
-sală cu multe calculatoare. Începem cu câte o scurtă prezentare din
-partea [mentorilor][mentori] despre proiectele lor și task-urile pe care
-le propun. Ne alegem fiecare la ce proiect vrem să lucrăm &mdash; unul
-din cele propuse de mentori, sau orice altceva &mdash; și mai departe,
-code code code :) Pe la prânz comandăm niște pizza, iar la sfârșit, cine
+Ne întâlnim sâmbătă dimineață (vezi [calendarul][calendar]) într-o sală
+cu multe calculatoare. Începem cu câte o scurtă prezentare din partea
+[mentorilor][mentori] despre proiectele lor și task-urile pe care le
+propun. Ne alegem fiecare la ce proiect vrem să lucrăm &mdash; unul din
+cele propuse de mentori, sau orice altceva &mdash; și mai departe, code
+code code :) Pe la prânz comandăm niște pizza, iar la sfârșit, cine
 vrea, mergem la o bere.
+
+
+Unde?
+-----
+La [Facultatea de Automatică și Calculatoare][automatica] în UPB, sala
+EG-106. Se poate intra dinspre bd. Iuliu Maniu ([google maps][]), după
+care [pe aici][harta1] și [pe aici][harta2].
 
 
 Cui se adresează?
@@ -30,13 +36,6 @@ Cui se adresează?
 * Maintaineri de open-source care vor să-și promoveze
   proiectul.
 
-
-Vreau și eu!
-------------
-
-Pe pagina de [calendar][] găsești următoarea întâlnire. Se poate intra
-dinspre bd. Iuliu Maniu ([google maps][]), după care [pe aici][harta1]
-și [pe aici][harta2].
 
 [automatica]: http://acs.pub.ro/
 [mentori]: mentori.html
