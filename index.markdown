@@ -34,8 +34,13 @@ Cui se adresează?
 Vreau și eu!
 ------------
 
-Pe pagina de [calendar][] găsești următoarea întâlnire.
+Pe pagina de [calendar][] găsești următoarea întâlnire. Se poate intra
+dinspre bd. Iuliu Maniu ([google maps][]), după care [pe aici][harta1]
+și [pe aici][harta2].
 
 [automatica]: http://acs.pub.ro/
 [mentori]: mentori.html
 [calendar]: calendar.html
+[google maps]: http://maps.google.com/maps/ms?msa=0&msid=213189460001245370119.0004ae1789a4b52e9f4c1&doflg=ptk&ie=UTF8&ll=44.434492,26.048638&spn=0.001339,0.00284&t=m&z=19&vpsrc=0&iwloc=0004ae1789a73e4c49624
+[harta1]: images/directions-poli.png
+[harta2]: images/directions-eg.png
