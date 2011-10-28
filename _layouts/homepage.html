@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% assign next = site.posts.first %}
+
+<h2>Următoarea ediție, {{ next.title }}</h2>
+
+{{ next.content }}
+
+<h2>Ediții precedente</h2>
+
+<ul>
+{% for item in site.posts %}
+  {% unless forloop.first %}
+    <li><strong><a href="{{ item.url }}">{{ item.title }}</a></strong></li>
+  {% endunless %}
+{% endfor %}
+</ul>
