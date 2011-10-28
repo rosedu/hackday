@@ -34,3 +34,18 @@ Nu se fac înscrieri, vine cine vrea :)
   Designerii în special sunt bine-veniți!
 
 [soc.rosedu.org]: http://soc.rosedu.org
+
+
+* **[WoUSO][]** (World of USO) este un joc online text, conceput ca
+  instrument adițional de curs (USO înseamnă Utilizarea Sistemelor de
+  Operare); modulele de joc se bazează pe de o parte pe cunoașterea
+  materiei (utilizare Linux) și pe de altă parte pe cultura geek. WoUSO
+  permite adăugarea de noi jocuri și oferă platforma necesară unui
+  astfel de sistem extensibil (formule și monede dinamice, modul de
+  scoring în core, clase utilizator/grup/joc extensibile, modul global
+  de administrare a întrebărilor).
+
+  Site-ul tocmai a fost lansat, este folosit de studenți, și dorim să
+  facem o serie de îmbunătățiri.
+
+[wouso]: https://wouso.rosedu.org/
