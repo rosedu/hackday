@@ -5,7 +5,6 @@ layout: arhiva
 
 Primul Hack Day a avut atât de mult succes, încât mai organizăm unul! A
 doua ediție va avea loc după [CDL](http://cdl.rosedu.org/2011-fall/).
-Lista de proiecte este încă în lucru.
 
 Locația: EG106 în UPB la ora 13:00, vezi [descriere](/descriere.html).
 Nu se fac înscrieri, vine cine vrea :)
