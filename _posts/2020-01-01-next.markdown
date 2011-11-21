@@ -1,0 +1,16 @@
+---
+title: căutăm proiecte
+date-not-decided: true
+layout: arhiva
+---
+
+Pregătim următoarele proiecte:
+
+* Sistem de înscrieri pentru ROSEdu Webdev Workshops
+* Îmbunătățiri la DEXonline
+
+Dacă vrei să [propui un proiect][mentori], trimite un email pe lista de
+discuții,
+[rosedu-general@lists.rosedu.org](mailto:rosedu-general@lists.rosedu.org).
+
+[mentori]: /mentori.html

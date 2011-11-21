@@ -6,7 +6,11 @@ layout: default
 
 {% assign next = site.posts.first %}
 
+{% if next.date-not-decided %}
+<h2>Următoarea ediție</h2>
+{% else %}
 <h2>Următoarea ediție, {{ next.title }}</h2>
+{% endif %}
 
 {{ next.content }}
 
