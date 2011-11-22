@@ -8,6 +8,7 @@ Pregătim următoarele proiecte:
 
 * Sistem de înscrieri pentru ROSEdu Webdev Workshops
 * Îmbunătățiri la DEXonline
+* Hadoop și Hbase
 
 Dacă vrei să [propui un proiect][mentori], trimite un email pe lista de
 discuții,
