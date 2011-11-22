@@ -1,3 +1,4 @@
 pygments: true
 url: .
 permalink: /:year-:month-:day.html
+exclude: fabfile.py
