@@ -38,6 +38,9 @@ descriere](/descriere.html)), la ora 13:00, după
   scoring în core, clase utilizator/grup/joc extensibile, modul global
   de administrare a întrebărilor).
 
+  Tehnologii: Python, Django. Tichete în proiectul
+  [redmine](https://projects.rosedu.org/projects/wouso).
+
 [wouso]: https://wouso.rosedu.org/
 
 
