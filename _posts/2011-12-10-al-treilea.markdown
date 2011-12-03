@@ -14,6 +14,32 @@ descriere](/descriere.html)), la ora 13:00, după
 
 ## Proiecte
 
+* **[infoarena][]** ajută  elevi și studenți să învețe informatică și
+  programare. Organizăm concursuri de informatică, scriem articole,
+  dezvoltăm software, facem schimb de experiență și idei. Avem o arhivă
+  de peste 1200 de probleme cu nivele de dificultate variind de la
+  foarte ușoare la foarte grele. Avem și un evaluator online, live
+  24/24, care îți va da rezultatul la o problemă la câteva secunde după
+  ce ai trimis soluția.
+
+  Tehnologii: PHP, Linux, HTML, MySQL, JavaScript (opțional). Taskuri:
+
+  * Statistici admini - grafice cu care să măsurăm activitatea
+    vizitatorilor, iar dacă vrem să măsurăm o metrică nouă, să nu
+    trebuiască să scriem cod.
+
+  * Arhivă de training - asemănătoare cu o arhivă normală, dar
+    problemele vor fi împărțite în mai multe subarhive ordonate,
+    utilizatorul având acces la următoarea subarhivă numai după ce a
+    rezolvat un procent configurabil din problemele anterioare.
+
+  * Marcarea de spam pe forum - buton de "mark as spam", care să șteargă
+    mesajul respectiv și toate mesajele postate de același user. În
+    același timp userul respectiv este adăugat la lista de ban.
+
+[infoarena]: http://infoarena.ro/
+
+
 * **[DEX online][]** este transpunerea pe internet a unor
   dicționare de prestigiu ale limbii române. El este creat și întreținut
   de un colectiv de voluntari.  Definițiile sunt preluate textual din
