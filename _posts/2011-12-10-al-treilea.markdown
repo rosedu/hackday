@@ -6,10 +6,8 @@ layout: arhiva
 Al treilea hack day vine cu mai multe proiecte! Avem Python, PHP și
 Java, pe gustul fiecăruia. Ne întâlnim în EG-106 (detalii pe [pagina de
 descriere](/descriere.html)), la ora 13:00, după
-[CDL](http://cdl.rosedu.org/2011-fall/).
-
-* Îmbunătățiri la DEXonline
-* Hadoop și Hbase
+[CDL](http://cdl.rosedu.org/2011-fall/). Participare liberă, nu se fac
+înscrieri.
 
 
 ## Proiecte
