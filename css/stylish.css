@@ -1,6 +1,5 @@
 body {
-    font-family: 'Garamond', 'Georgia', serif;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 div.content {
@@ -20,6 +19,7 @@ a, a:visited {
 div.footer {
     padding: 20px 5px;
     color: #444;
+    overflow: hidden;
 }
 
 div.footer div.copyright {
