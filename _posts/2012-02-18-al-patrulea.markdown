@@ -23,21 +23,17 @@ câteva.*
   scoring în core, clase utilizator/grup/joc extensibile, modul global
   de administrare a întrebărilor).
 
-  Tehnologii: Python, Django. Tichete în proiectul
+  Tehnologii: Python, Django. Tichete sunt în proiectul
   [redmine](https://projects.rosedu.org/projects/wouso).
 
 [wouso]: https://wouso.rosedu.org/
 
 * **[CensorMeNot][]** este un serviciu de DNS distribuit, conceput
-  pentru a rezista cenzurarea domeniilor în urma cererilor abuzive.
+  pentru a rezista
+  [cenzurării](http://en.wikipedia.org/wiki/Domain_name#Seizures)
+  domeniilor în urma cererilor abuzive.
 
-  Tehnologii: Ruby, JavaScipt.
-
-  Taskuri:
-
-  * Protocolul P2P via multicast. Specificația e pe jumătate
-    terminată.
-  * Asimilarea IP blacklists de la PeerGuardian si funcționalitatea de
-    IP filtering.
+  Tehnologii: Ruby, JavaScipt. Tichetele sunt pe
+  [github](https://github.com/dserban/censormenot/issues).
 
 [censormenot]: https://github.com/dserban/censormenot
