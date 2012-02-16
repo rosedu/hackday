@@ -14,19 +14,8 @@ câteva.*
 
 ## Proiecte
 
-* **[WoUSO][]** (World of USO) este un joc online text, conceput ca
-  instrument adițional de curs (USO înseamnă Utilizarea Sistemelor de
-  Operare); modulele de joc se bazează pe de o parte pe cunoașterea
-  materiei (utilizare Linux) și pe de altă parte pe cultura geek. WoUSO
-  permite adăugarea de noi jocuri și oferă platforma necesară unui
-  astfel de sistem extensibil (formule și monede dinamice, modul de
-  scoring în core, clase utilizator/grup/joc extensibile, modul global
-  de administrare a întrebărilor).
-
-  Tehnologii: Python, Django. Tichete sunt în proiectul
-  [redmine](https://projects.rosedu.org/projects/wouso).
-
-[wouso]: https://wouso.rosedu.org/
+* <span><strike><strong>World of USO</strong></strike> a fost anulat
+  pentru că ambii mentori nu mai pot să ajungă :(</span>
 
 * **[CensorMeNot][]** este un serviciu de DNS distribuit, conceput
   pentru a rezista
