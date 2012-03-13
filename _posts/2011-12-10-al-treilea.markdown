@@ -1,5 +1,5 @@
 ---
-title: 10 decembrie
+title: 10 decembrie 2011
 layout: arhiva
 ---
 
