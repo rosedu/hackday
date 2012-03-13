@@ -28,3 +28,28 @@ mai devreme, de la 13:00, când se termină [CDL][].
 * **[CensorMeNot][]**
 
 [censormenot]: https://github.com/dserban/censormenot
+
+
+* **[Apache HBase][hbase]** este o bază de date non-relațională,
+  distribuită, complet consistentă, care permite accesul aleator, în
+  timp real. Este bazat pe arhitectura BigTable, folosește un model de
+  stocare orientat pe coloane, cu stocarea eficientă a seturilor de date
+  sparse. HBase este bine integrat cu Apache Hadoop, permițând
+  procesarea distribuită și paralelă a datelor cu MapReduce.
+
+  HBase este construit deasupra unui sistem de fișiere distribuit (e.g.
+  HDFS, MapR) folosind Apache Zookeeper ca sistem de coordonare.
+  Tabelele sunt partiționate orizontal, pe baza cheilor, în regiuni, iar
+  fiecare server din cluster (RegionServer) poate servi un număr
+  arbitrar de regiuni, cu fail-over automat.
+
+  HBase poate scala de la un server la mii de servere, fiind la ora
+  actuală unul dintre cele mai scalabile sisteme de stocare distribuită
+  a datelor. Printre companiile care folosesc HBase se numără: Adobe,
+  EBay, Facebook, SalesForce, StumbleUpon, TrendMicro, Yahoo!, YFrog,
+  etc - câteva dintre acestea având clustere cu capacități de peste 1PB.
+
+  Manual: [HBase Book][]. Tehnologie: Java.
+
+[hbase]: http://hbase.apache.org/
+[hbase book]: http://hbase.apache.org/book/book.html
