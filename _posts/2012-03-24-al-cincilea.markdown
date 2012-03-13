@@ -24,3 +24,7 @@ mai devreme, de la 13:00, când se termină [CDL][].
 [dex online]: http://dexonline.ro/
 [dexonline-install]: http://wiki.dexonline.ro/wiki/AccesLaCodulSurs%C4%83
 [dexonline-tasks]: http://wiki.dexonline.ro/report/20
+
+* **[CensorMeNot][]**
+
+[censormenot]: https://github.com/dserban/censormenot
