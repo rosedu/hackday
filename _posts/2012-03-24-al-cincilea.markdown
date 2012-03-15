@@ -25,9 +25,21 @@ mai devreme, de la 13:00, când se termină [CDL][].
 [dexonline-install]: http://wiki.dexonline.ro/wiki/AccesLaCodulSurs%C4%83
 [dexonline-tasks]: http://wiki.dexonline.ro/report/20
 
-* **[CensorMeNot][]**
+
+* **[CensorMeNot][]** este un serviciu conceput să stocheze în mod
+  distribuit informațiile de DNS lookup care nu mai există oficial
+  datorită confiscării abuzive a domeniilor. Proiectul CensorMeNot își
+  propune să construiască o comunitate în jurul unui knowledge base
+  distribuit peer-to-peer. Cei dintre noi care am fost afectați de
+  [cenzura la nivel DNS][cenzura_dns] avem acum opțiunea de a opune
+  rezistență acționând preventiv și concertat.
+
+  Tehnologii: Ruby, JavaScript. Tichetele sunt pe
+  [github][censormenot_github].
 
 [censormenot]: https://github.com/dserban/censormenot
+[cenzura_dns]: http://en.wikipedia.org/wiki/Domain_name#Seizures
+[censormenot_github]: https://github.com/dserban/censormenot/issues
 
 
 * **[Apache HBase][hbase]** este o bază de date non-relațională,
