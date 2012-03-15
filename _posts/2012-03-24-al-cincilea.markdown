@@ -65,3 +65,16 @@ mai devreme, de la 13:00, când se termină [CDL][].
 
 [hbase]: http://hbase.apache.org/
 [hbase book]: http://hbase.apache.org/book/book.html
+
+
+* **[infoarena][]** ajută  elevi și studenți să învețe informatică și
+  programare. Organizăm concursuri de informatică, scriem articole,
+  dezvoltăm software, facem schimb de experiență și idei. Avem o arhivă
+  de peste 1200 de probleme cu nivele de dificultate variind de la
+  foarte ușoare la foarte grele. Avem și un evaluator online, live
+  24/24, care îți va da rezultatul la o problemă la câteva secunde după
+  ce ai trimis soluția.
+
+  Tehnologii: PHP, Linux, HTML, MySQL, JavaScript (opțional).
+
+[infoarena]: http://infoarena.ro/
