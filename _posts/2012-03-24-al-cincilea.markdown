@@ -79,3 +79,21 @@ mai devreme, de la 13:00, când se termină CDL.
   Tehnologii: PHP, Linux, HTML, MySQL, JavaScript (opțional).
 
 [infoarena]: http://infoarena.ro/
+
+
+* **Start The Dark** Se dă un grup de vreo 30 prieteni cărora le place
+  să iasă în oraș împreună în fiecare seară. Se dă de asemenea o
+  aplicație web touchdevice-friendly numită "Start The Dark". Oricare
+  dintre membrii acestui grup are posibilitatea de a intra în această
+  aplicație de pe telefonul mobil și de a propune grupului "unde să
+  ieșim în seara asta" (limitare: o singură propunere / zi /
+  participant). Fiecare propunere are atașat un buton numit "Vin și
+  eu!", iar participanții pot răsfoi (cu o succesiune de gesturi swipe)
+  în fiecare seară lista de propuneri și alege ce activități le plac.
+
+  Tehnologiile pe care le vom utiliza:
+
+  * [Sencha Touch][] 2.0 pentru front-end [1]
+  * Sinatra + ActiveRecord pentru back-end
+
+[Sencha Touch]: http://www.sencha.com/blog/announcing-sencha-touch-2
