@@ -93,7 +93,7 @@ mai devreme, de la 13:00, când se termină CDL.
 
   Tehnologiile pe care le vom utiliza:
 
-  * [Sencha Touch][] 2.0 pentru front-end [1]
+  * [Sencha Touch][] 2.0 pentru front-end
   * Sinatra + ActiveRecord pentru back-end
 
 [Sencha Touch]: http://www.sencha.com/blog/announcing-sencha-touch-2
