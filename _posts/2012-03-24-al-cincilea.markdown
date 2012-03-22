@@ -3,9 +3,10 @@ title: 24 martie
 layout: arhiva
 ---
 
-E timpul pentru un nou Hack Day! Ne vedem sâmbătă, 24 martie, la ora
-14:00 (după cursurile [CDL][] și [WebDev][]), în EG-106. Poți veni chiar
-mai devreme, de la 13:00, când se termină CDL.
+E timpul pentru un nou Hack Day! Ne vedem **sâmbătă, 24 martie**, la ora
+**14:00** (după cursurile [CDL][] și [WebDev][]), în
+<strike>EG-106</strike> **<span style="color:red">EG-207</span>**. Poți
+veni chiar mai devreme, de la 13:00, când se termină CDL.
 
 [CDL]: http://cdl.rosedu.org/2012/calendar
 [WebDev]: http://webdev.rosedu.org/
