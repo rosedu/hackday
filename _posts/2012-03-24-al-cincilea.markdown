@@ -82,6 +82,18 @@ veni chiar mai devreme, de la 13:00, când se termină CDL.
 [infoarena]: http://infoarena.ro/
 
 
+* **[WebKit][]** este engine-ul care se ocupă de rendering-ul paginilor
+  Web pe platforme desktop (prin browsere precum Chromium și Safari),
+  mobile (Android, iOS) și tablete.
+
+  Există numeroase companii care contribuie activ la dezvoltarea engine-ului
+  extinzând astfel lucrurile posibilele cu tehnologiile Web de astăzi.
+
+  Tehnologii: C++, HTML, CSS, JavaScript.
+
+[infoarena]: http://infoarena.ro/
+
+
 * **Start The Dark** Se dă un grup de vreo 30 prieteni cărora le place
   să iasă în oraș împreună în fiecare seară. Se dă de asemenea o
   aplicație web touchdevice-friendly numită "Start The Dark". Oricare
