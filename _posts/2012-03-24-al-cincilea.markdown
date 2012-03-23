@@ -91,7 +91,7 @@ veni chiar mai devreme, de la 13:00, când se termină CDL.
 
   Tehnologii: C++, HTML, CSS, JavaScript.
 
-[infoarena]: http://infoarena.ro/
+[WebKit]: http://www.webkit.org/
 
 
 * **Start The Dark** Se dă un grup de vreo 30 prieteni cărora le place
