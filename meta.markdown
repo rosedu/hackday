@@ -14,4 +14,4 @@ public pe GitHub.
 [ROSEdu]: http://www.rosedu.org/
 [rosedu-general]: http://lists.rosedu.org/cgi-bin/mailman/listinfo/rosedu-general
 [Jekyll]: http://jekyllrb.com/
-[repo]: https://github.com/alex-morega/rosedu-hackday/
+[repo]: https://github.com/rosedu/hackday/
