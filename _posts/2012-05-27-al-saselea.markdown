@@ -74,7 +74,21 @@ Stay tuned pentru updates!
   de administrare a întrebărilor).
 
   Tehnologii: Python, Django. Tichete în proiectul
-  [redmine](https://projects.rosedu.org/projects/wouso).
+  [Redmine][wouso-redmine], iar codul se găsește pe [Github][wouso-cod].
 
 [wouso]: https://wouso.rosedu.org/
+[wouso-cod]:  https://github.com/rosedu/wouso
+[wouso-redmine]: https://projects.rosedu.org/projects/wouso
+
+* **ROSEdu People** este un mic director de persoane și activități pentru
+  recunoașterea meritelor unei comunități. Proiectul e în faza
+  incipientă, există câteva idei de funcționalități, iar direcțiile în
+  care se poate extinde sunt nenumărate.
+
+  Scris peste Django, prezintă cel mai bun loc de pornire pentru
+  începători. Puteți arunca un ochi peste cod la [Github][rppl-github]
+  sau peste demo la [link][rppl-link].
+
+[rppl-github]: http://github.com/alexef/rosedu-people
+[rppl-link]: http://swarm.cs.pub.ro/~alexef/rppl/.
 
