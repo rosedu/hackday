@@ -36,19 +36,7 @@ Stay tuned pentru updates!
 [node-js]: http://nodejs.org/
 [node-pcap]: https://github.com/mranney/node_pcap
 
-* **[DEX online][]** este transpunerea pe internet a unor
-  dicționare de prestigiu ale limbii române. El este creat și întreținut
-  de un colectiv de voluntari.  Definițiile sunt preluate textual din
-  sursele menționate. O parte din baza de definiții a DEX online este
-  disponibilă gratuit sub licența publică generală GNU (GPL).
-
-  Puteți vedea [instrucțiunile de instalare][dexonline-install] și o
-  listă cu [task-uri propuse pentru hack day][dexonline-tasks].
-  DEXonline rulează în PHP (idiorm, smarty) cu o bază de date MySQL.
-
-[dex online]: http://dexonline.ro/
-[dexonline-install]: http://wiki.dexonline.ro/wiki/AccesLaCodulSurs%C4%83
-[dexonline-tasks]: http://wiki.dexonline.ro/report/20
+* **<strike>DEX online</strike>** proiect anulat :(
 
 * **[Harta Politicii][harta]** își propune să fie cea mai mare colecție de
   date de date despre politicieni români.
