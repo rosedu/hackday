@@ -13,7 +13,7 @@ Vino să înveți cu programatori experimentați, meseria se fură!
 
 Stay tuned pentru updates!
 
-## Proiecte (listă în lucru)
+## Proiecte
 
 * **CaptureHiddenMultimediaContent** este o idee nouă de proiect
   pentru HackDay.
