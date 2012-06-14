@@ -1,0 +1,21 @@
+---
+title: 23 iun
+layout: arhiva
+---
+
+
+Avem plăcerea de a vă invita la un hackaton de aplicații Mozilla. Este o
+ocazie bună să învățați ceva nou, să lucrati cu oameni pasionați și să
+descoperiți ce plănuiește Mozilla pentru viitorul internetului. Vom
+lucra cu tehnologii web: HTML5, CSS, JavaScript.
+
+Chiar dacă nu cunoasteți aceste limbaje, nu fiți descurajați.
+Cunoștințele necesare sunt minime, și vă vom prezenta noi tot ce trebuie
+să știți. Veți descoperi ce este boot2gecko, noul sistem de operare
+pentru dispozitive mobile de la Mozilla, și cât de simplu puteți scrie o
+aplicație pentru el.
+
+Dacă doriți să participați la acest eveniment, vă rugăm să vă înscrieți
+[pe meetup].
+
+[pe meetup]: http://mozillahack-bucharest.eventbrite.com/
