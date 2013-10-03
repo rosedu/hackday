@@ -5,12 +5,14 @@
    <title>{% unless page.is-home %}ROSEdu Hack Day &mdash;
         {% endunless %}{{ page.title }}</title>
    <link rel="stylesheet" href="{{ site.url }}/css/stylish.css">
+   <script type="text/javascript" src="{{ site.url }}/js/helper.js"></script>
    <script type="text/javascript" src="{{ site.url }}/js/tabs.js"></script>
+   <script type="text/javascript">attachOnLoadHandler(tabs_init)</script>
    <link rel="stylesheet" href="{{ site.url }}/css/tabs.css"/>
    <meta name="viewport" content="width=device-width">
 </head>
 
-<body class="{{ page.body-class }}" onload="tabs_init();">
+<body class="{{ page.body-class }}">
 <div class="content">
 
 {% if page.deco-image %}
